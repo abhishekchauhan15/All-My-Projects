@@ -1,14 +1,14 @@
 # MY Projects
 
  Here I update all my projects . 
- links to be updated soon 
+  8- 12  demo links to be updated soon github repo is updated
  
  
  
 Day | Description | Technologies Used |GitHub Link | Demo Link
 ----|-------------|---------|--------|------
- 12 | Discord Clone  |   React Js + Firebase | [GitHub Repo]() | [Click Here!]()
- 11 | Twitter Clone  | React Js + Firebase | [GitHub Repo]() | [Click Here!]()
+ 12 | Discord Clone  |   React Js + Firebase | [GitHub Repo](https://github.com/abhishekchauhan15/Discord-Clone) | [Click Here!]()
+ 11 | Twitter Clone  | React Js + Firebase | [GitHub Repo](https://github.com/abhishekchauhan15/Twitter-Clone) | [Click Here!]()
  10 | Meme Generator    | React Js |[GitHub Repo]() | [Click Here!]()
  09 | Calorie Tracker  |React Js  |[GitHub Repo]() | [Click Here!]()
  08 | Random Password Generator|HTML CSS JavaScript  |[GitHub Repo](https://github.com/abhishekchauhan15/Password-Generator) | [Click Here!](https://abhishekchauhan15.github.io/Password-Generator/)
@@ -33,9 +33,9 @@ Day | Description | Technologies Used |GitHub Link | Demo Link
  
  
  
- # Hackathons 
+ # Some More Projects 
  
- Some Pyhon Projects
+ Python Projects
 
 Day | Description | Technologies Used |GitHub Link 
 ----|-------------|---------|--------
