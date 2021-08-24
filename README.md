@@ -27,7 +27,8 @@ Day | Description | Technologies Used |GitHub Link | Demo Link
 
 Day | Description | Technologies Used |GitHub Link | Demo Link
 ----|-------------|---------|--------|------
- 02 | Tourism Web Site  |   React Js | [GitHub Repo](https://github.com/abhishekchauhan15/djp-tourism) | [Click Here!](https://djp-tourism.web.app/)
+ 03 | E-Commerce |   React Js | [GitHub Repo](https://github.com/AV32/DJPkart) | [Click Here!](https://djp-digital.web.app/)
+ 02 | Indian Tourism Web Portal  |   React Js | [GitHub Repo](https://github.com/abhishekchauhan15/djp-tourism) | [Click Here!](https://djp-tourism.web.app/)
  01 | 2D Breakout Game  | HTML CSS JavaScript |[GitHub Repo](https://github.com/abhishekchauhan15/Hackathon-Game) | [Click Here!](https://djp-breakout.netlify.app/)
  
  
