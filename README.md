@@ -9,7 +9,7 @@ Day | Description | Technologies Used |GitHub Link | Demo Link
 ----|-------------|---------|--------|------
  12 | Discord Clone  |   React Js + Firebase | [GitHub Repo](https://github.com/abhishekchauhan15/Discord-Clone) | [Click Here!]()
  11 | Twitter Clone  | React Js + Firebase | [GitHub Repo](https://github.com/abhishekchauhan15/Twitter-Clone) | [Click Here!]()
- 10 | Meme Generator    | React Js |[GitHub Repo]() | [Click Here!](https://github.com/abhishekchauhan15/Devsnest-Frontend/tree/main/Day_22)
+ 10 | Meme Generator    | React Js |[GitHub Repo](https://github.com/abhishekchauhan15/MemeGenerator) | [Click Here!](https://makeyourmeme.netlify.app/)
  09 | Calorie Tracker  |React Js  |[GitHub Repo]() | [Click Here!](https://github.com/abhishekchauhan15/Devsnest-Frontend/tree/main/Day_20)
  08 | Random Password Generator|HTML CSS JavaScript  |[GitHub Repo](https://github.com/abhishekchauhan15/Password-Generator) | [Click Here!](https://abhishekchauhan15.github.io/Password-Generator/)
  07 | Snake Game |HTML CSS JavaScript  |[GitHub Repo](https://github.com/abhishekchauhan15/Snake-Mania) | [Click Here!](https://ekgamingkatha.netlify.app/)
